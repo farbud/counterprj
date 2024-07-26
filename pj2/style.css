@@ -1,0 +1,18 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#mybtn{
+    margin-top: 20px;
+    font-size: 3em;
+    padding: 5px 25px;
+}
+
+#mybtn:hover{
+    color: rgb(57, 4, 95);
+}
+
+#mylabel{
+    font-size: 10em;
+}
